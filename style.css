@@ -1,0 +1,24 @@
+h1 {
+    color: brown;
+}
+
+* {
+    border: solid;
+}
+.header{
+    background-color: aqua;
+    display:flex;
+    justify-content: space-between;
+}
+.menu{
+    background-color: blueviolet;
+}
+.games{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+.socialMedia{
+    display: flex;
+    justify-content: flex-end;
+}
